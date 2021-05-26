@@ -1,0 +1,6 @@
+.header__lang {
+    display: grid;
+    grid-template-columns: min-content min-content;
+    gap: 18px;
+    margin: 0;
+}

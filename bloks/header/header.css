@@ -1,0 +1,21 @@
+.header {
+    width: calc(100% - 32px); 
+    margin: 0 auto;
+ 
+    padding-top: 16px;
+     display: flex;
+     flex-direction: row;
+     justify-content: space-between;
+     align-items: center;
+     flex-wrap: nowrap;
+ }
+ 
+ @media screen and (min-width: 425px) {
+     .header {
+        padding-top: 28px; 
+        width: calc(100% - 48px);
+     
+     }   
+ }    
+ 
+ 
