@@ -11,11 +11,13 @@
 @media screen and (min-width: 748px) {
     .intro {
         width: calc(100% - 48px);
+        padding-top: 88px;
     }
 }
 
 @media screen and (min-width: 1024px) {
     .intro {
         width: calc(100% - 96px);
+        padding-top: 92px;
     }
 }

@@ -2,8 +2,9 @@
     margin: 0;
     font-size: 12px;
     line-height: 170%;
-    color: white;
+    color: #AAAAAA;
     padding-bottom: 12px;
+    letter-spacing: 0.2em;
 }
 
 @media screen and (min-width: 768px) {
@@ -11,3 +12,5 @@
         padding-bottom: 0;
     }
 }
+
+

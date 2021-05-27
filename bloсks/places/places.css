@@ -12,6 +12,12 @@
 
 @media screen and (min-width: 1024px) {
     .places {
-        width: calc(100% - 48px);
+        width: calc(100% - 96px);
+    }
+}
+
+@media screen and (min-width: 1280px) {
+    .places {
+        width: calc(100% - 296px);
     }
 }

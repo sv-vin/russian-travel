@@ -1,13 +1,8 @@
 .header__lang-link_active {
-    margin-right: 18px;
-    text-decoration: underline;
-    font-weight: normal;
-    margin: 0;
+        text-decoration: underline;   
 }
 
-@media screen and (min-width: 768px) {
-    .header__lang-link_active {
-        font-size: 30px;
-        line-height: 28px;
-    }
-}
+
+
+
+
