@@ -9,13 +9,13 @@
     align-items: center;
 }
 
-@media screen and (min-width: 1024px) {
+@media screen and (min-width: 984px) {
     .lead {
         width: calc(100% - 96px);
     }
 }
 
-@media screen and (min-width: 1280px) {
+@media screen and (min-width: 1140px) {
     .lead {
         padding-top: 56px;
     }

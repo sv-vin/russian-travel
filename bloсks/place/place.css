@@ -9,7 +9,7 @@
     margin-bottom: 20px;
 }
 
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 568px) {
     .place {
         grid-template-columns: 340px 1fr;
         grid-template-rows: repeat(2, min-content);
@@ -19,7 +19,7 @@
     }
 }
 
-@media screen and (min-width: 1024px) {
+@media screen and (min-width: 984px) {
     .place {
         grid-template-columns: 440px 1fr;
         grid-column-gap: 32px;
@@ -27,7 +27,7 @@
     }
 }
 
-@media screen and (min-width: 1280px) {
+@media screen and (min-width: 1140px) {
     .place {
         grid-template-columns: 460px 1fr;
         grid-column-gap: 40px;

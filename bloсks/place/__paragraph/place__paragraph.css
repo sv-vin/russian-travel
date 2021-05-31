@@ -8,13 +8,13 @@
     font-weight: normal;
 }
 
-@media screen and (min-width: 728px) {
+@media screen and (min-width: 568px) {
     .place__paragraph {
         width: 100%;
     }
 }
 
-@media screen and (min-width: 1024px) {
+@media screen and (min-width: 984px) {
     .place__paragraph {
         font-size: 18px;
     }

@@ -7,7 +7,7 @@
     grid-auto-flow: row;
     gap: 12px;
     padding-top: 64px;
-    padding-bottom: 50px;
+    padding-bottom: 64px;
 }
 
 @media screen and (min-width: 568px) {

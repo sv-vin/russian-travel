@@ -4,7 +4,7 @@
     align-self: end;
 }
 
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 568px) {
     .place__website {
         width: 100%;
         padding: 0;
