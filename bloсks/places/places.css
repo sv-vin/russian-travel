@@ -3,19 +3,19 @@
     margin: 0 auto;
 }
 
-@media screen and (min-width: 568px) {
+@media screen and (min-width: 768px) {
     .places {
         width: calc(100% - 48px);
     }
 }
 
-@media screen and (min-width: 984px) {
+@media screen and (min-width: 1024px) {
     .places {
         width: calc(100% - 96px);
     }
 }
 
-@media screen and (min-width: 1140px) {
+@media screen and (min-width: 1280px) {
     .places {
         width: calc(100% - 296px);
     }
