@@ -1,5 +1,5 @@
 .footer {
-  width: calc(100% - 28px);
+  width: calc(100% - 32px);
   margin: 0 auto;
   display: flex;
   flex-direction: column;
